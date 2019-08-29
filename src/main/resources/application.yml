@@ -1,0 +1,11 @@
+person:
+  name: zhangsan
+  age: 18
+  date: 2019/4/15
+  map: {k1: v1,k2: 100}
+  list:
+    - zzz
+    - xxx
+  dog:
+    name: lisi
+    age: 3
